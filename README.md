@@ -1,6 +1,6 @@
 WebShop 
 =======
-A basic command line based website builder written on Borland's Turbo C++ compiler. I built this with a friend (**Skanda Shekhar**) for our Computer Science project back in 12th grade (so, don't judge).
+A basic command line based website builder written on Borland's Turbo C++ compiler. I built this with my friend **Skanda Shekhar** for our 12th grade Computer Science project (so, don't judge).
 
 Dependencies
 ------------
@@ -11,5 +11,3 @@ Dependencies
 * process.h
 * dos.h
 * graphics.h
-
-
